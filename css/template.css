@@ -13,7 +13,7 @@ body p{ font: 16px/1.6 'Lato', sans-serif; }
 .header{   
     height: auto; 
     background-color: #ffffff; 
-    font-size: .9em;  
+    font-size: .88em;  
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); 
 }
 
@@ -529,7 +529,7 @@ footer.footer .contact .footer-links ul li{
 @media (min-width: 576px) and (max-width: 768px) {      
     
     #collapsibleNavbar{
-        width: 100%;
+        width: auto;
         background-color: rgba(0, 0, 0, .65);    
         padding: 10px;
         margin-top: 5px;
@@ -581,7 +581,7 @@ footer.footer .contact .footer-links ul li{
 @media (min-width: 320px) and (max-width: 576px) {    
 
     #collapsibleNavbar{
-        width: 100%;
+        width: auto;
         background-color: rgba(0, 0, 0, .65);    
         padding: 10px;
         margin-top: 5px;

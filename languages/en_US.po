@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2021-08-30 22:23-0300\n"
-"PO-Revision-Date: 2021-08-30 22:23-0300\n"
+"POT-Creation-Date: 2021-09-08 16:46-0300\n"
+"PO-Revision-Date: 2021-09-08 16:46-0300\n"
 "Last-Translator: Elízeo Hamu <elizeohamu@gmail.com>\n"
 "Language-Team: \n"
 "Language: en_US\n"
@@ -184,11 +184,11 @@ msgstr ""
 msgid "Utilities Section"
 msgstr ""
 
-#: inc/customizer.php:207 inc/customizer.php:241 inc/customizer.php:275
+#: inc/customizer.php:207
 msgid "Events"
 msgstr ""
 
-#: inc/customizer.php:222 inc/customizer.php:256 inc/customizer.php:290
+#: inc/customizer.php:222
 msgid "Link for Events"
 msgstr ""
 
@@ -202,6 +202,22 @@ msgstr ""
 #: inc/customizer.php:338 inc/customizer.php:402 inc/customizer.php:456
 #: inc/customizer.php:510 inc/customizer.php:600 inc/customizer.php:628
 msgid "http://www.url.com"
+msgstr ""
+
+#: inc/customizer.php:241
+msgid "Meets"
+msgstr ""
+
+#: inc/customizer.php:256
+msgid "Link for Meets"
+msgstr ""
+
+#: inc/customizer.php:275
+msgid "Documents"
+msgstr ""
+
+#: inc/customizer.php:290
+msgid "Link for Documents"
 msgstr ""
 
 #: inc/customizer.php:305
@@ -310,10 +326,6 @@ msgstr ""
 
 #: search.php:24
 msgid "Search navigation"
-msgstr ""
-
-#: searchform.php:3
-msgid "Search &hellip;"
 msgstr ""
 
 #: template-parts/content-archive.php:4 template-parts/content-category.php:4

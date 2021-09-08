@@ -186,7 +186,7 @@ function cvsm_customizer( $cvsm_customize ){
     );
 
     //
-    // Utilities Sectopn
+    // Utilities Section
     //
     $cvsm_customize->add_section(
         'sec_utilities', array(
@@ -238,7 +238,7 @@ function cvsm_customizer( $cvsm_customize ){
     );
     $cvsm_customize->add_control(
         'set_utilities_text_2', array(
-            'label' => __('Events', 'cvsm'),
+            'label' => __('Meets', 'cvsm'),
             'description' => __('Type your text', 'cvsm'),
             'section' => 'sec_utilities',
             'type' => 'textarea'
@@ -253,7 +253,7 @@ function cvsm_customizer( $cvsm_customize ){
     );
     $cvsm_customize->add_control(
         'set_utilities_link_2', array(
-            'label' => __('Link for Events', 'cvsm'),
+            'label' => __('Link for Meets', 'cvsm'),
             'description' => __('Type your link', 'cvsm'),
             'section' => 'sec_utilities',
             'type' => 'text',
@@ -272,7 +272,7 @@ function cvsm_customizer( $cvsm_customize ){
     );
     $cvsm_customize->add_control(
         'set_utilities_text_3', array(
-            'label' => __('Events', 'cvsm'),
+            'label' => __('Documents', 'cvsm'),
             'description' => __('Type your text', 'cvsm'),
             'section' => 'sec_utilities',
             'type' => 'textarea'
@@ -287,7 +287,7 @@ function cvsm_customizer( $cvsm_customize ){
     );
     $cvsm_customize->add_control(
         'set_utilities_link_3', array(
-            'label' => __('Link for Events', 'cvsm'),
+            'label' => __('Link for Documents', 'cvsm'),
             'description' => __('Type your link', 'cvsm'),
             'section' => 'sec_utilities',
             'type' => 'text',

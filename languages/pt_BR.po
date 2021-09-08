@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CBH Tema 1.0\n"
-"POT-Creation-Date: 2021-08-30 22:24-0300\n"
-"PO-Revision-Date: 2021-08-30 22:29-0300\n"
+"POT-Creation-Date: 2021-09-08 16:46-0300\n"
+"PO-Revision-Date: 2021-09-08 16:47-0300\n"
 "Last-Translator: Elízeo Hamu <elizeohamu@gmail.com>\n"
 "Language-Team: \n"
 "Language: pt_BR\n"
@@ -184,11 +184,11 @@ msgstr "Seção Utilidades"
 msgid "Utilities Section"
 msgstr "Seção Utilidades"
 
-#: inc/customizer.php:207 inc/customizer.php:241 inc/customizer.php:275
+#: inc/customizer.php:207
 msgid "Events"
 msgstr "Eventos"
 
-#: inc/customizer.php:222 inc/customizer.php:256 inc/customizer.php:290
+#: inc/customizer.php:222
 msgid "Link for Events"
 msgstr "Link para Eventos"
 
@@ -203,6 +203,22 @@ msgstr "Digite seu link"
 #: inc/customizer.php:510 inc/customizer.php:600 inc/customizer.php:628
 msgid "http://www.url.com"
 msgstr ""
+
+#: inc/customizer.php:241
+msgid "Meets"
+msgstr "Reuniões"
+
+#: inc/customizer.php:256
+msgid "Link for Meets"
+msgstr "Link para Reuniões"
+
+#: inc/customizer.php:275
+msgid "Documents"
+msgstr "Documentos"
+
+#: inc/customizer.php:290
+msgid "Link for Documents"
+msgstr "Link para Documentos"
 
 #: inc/customizer.php:305
 msgid "Section: About"
@@ -312,10 +328,6 @@ msgstr "Procurar resultados por:"
 msgid "Search navigation"
 msgstr "Procurar resultados por"
 
-#: searchform.php:3
-msgid "Search &hellip;"
-msgstr "Procurar &hellip;"
-
 #: template-parts/content-archive.php:4 template-parts/content-category.php:4
 #: template-parts/content-date.php:4 template-parts/content-search.php:3
 #: template-parts/content-single.php:6 template-parts/content-tag.php:4
@@ -333,3 +345,6 @@ msgstr "por"
 #: template-parts/content-single.php:7 template-parts/content-tag.php:5
 msgid "Categories: "
 msgstr "Categorias: "
+
+#~ msgid "Search &hellip;"
+#~ msgstr "Procurar &hellip;"
