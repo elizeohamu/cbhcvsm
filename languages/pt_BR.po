@@ -1,0 +1,335 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CBH Tema 1.0\n"
+"POT-Creation-Date: 2021-08-30 22:24-0300\n"
+"PO-Revision-Date: 2021-08-30 22:29-0300\n"
+"Last-Translator: Elízeo Hamu <elizeohamu@gmail.com>\n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-KeywordsList: _e;_nx;esc_attr_x;esc_html__;_x;__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:8
+msgid "Page not found"
+msgstr "Página não encontrada"
+
+#: 404.php:9
+msgid "Unfortunately, the page you tried to reach does not exist on this site."
+msgstr "Infelizmente, a página que você tentou alcançar não existe neste site."
+
+#: 404.php:13
+msgid "How about doing a search?"
+msgstr "Que tal fazer uma pesquisa?"
+
+#: archive.php:19 category.php:19 date.php:19 general-template.php:25
+#: tag.php:18
+msgid "There´s nothing yet to be displayed..."
+msgstr "Não há nada ainda a ser exibido..."
+
+#: comments.php:16
+#, php-format
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Um comentário de &ldquo;%s&rdquo;"
+
+#: comments.php:21
+#, php-format
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgstr "%1$s sobre &ldquo;%2$s&rdquo;"
+
+#: comments.php:54
+msgid "Comments are closed."
+msgstr "Comentários encerrados."
+
+#: functions.php:23
+msgid "Header Menu"
+msgstr "Menu do cabeçalho"
+
+#: functions.php:24
+msgid "Footer Menu"
+msgstr "Menu do rodapé"
+
+#: functions.php:41
+msgid "Blue"
+msgstr "Azul"
+
+#: functions.php:46
+msgid "Dark Blue"
+msgstr "Azul Escuro"
+
+#: functions.php:51
+msgid "Light Green"
+msgstr "Verde Claro"
+
+#: functions.php:56
+msgid "Light Gray"
+msgstr "Cinza claro"
+
+#: functions.php:61
+msgid "Orange"
+msgstr "Laranja"
+
+#: functions.php:66
+msgid "Black"
+msgstr "Preto"
+
+#: functions.php:71
+msgid "White"
+msgstr "Branco"
+
+#: inc/class-wp-bootstrap-navwalker.php:369
+msgid "Add a menu"
+msgstr "Adicionar Menu"
+
+#: inc/customizer.php:10 inc/customizer.php:11
+msgid "Header E-mail"
+msgstr "E-mail de cabeçalho"
+
+#: inc/customizer.php:23
+msgid "E-mail"
+msgstr "E-mail"
+
+#: inc/customizer.php:24
+msgid "Type your e-mail"
+msgstr "Digite seu e-mail"
+
+#: inc/customizer.php:35 inc/customizer.php:36
+msgid "Banner"
+msgstr "Banner"
+
+#: inc/customizer.php:48
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: inc/customizer.php:49
+msgid "Insert your shortcode"
+msgstr "Insira seu shortcode"
+
+#: inc/customizer.php:61
+msgid "Footer Contact"
+msgstr "Contato do rodapé"
+
+#: inc/customizer.php:62
+msgid "Footer Contact Section"
+msgstr "Seção de Contato do Rodapé"
+
+#: inc/customizer.php:75
+msgid "Title"
+msgstr "Título"
+
+#: inc/customizer.php:76 inc/customizer.php:383 inc/customizer.php:437
+#: inc/customizer.php:491
+msgid "Type your title"
+msgstr "Digite seu título"
+
+#: inc/customizer.php:91 inc/customizer.php:318
+msgid "Text"
+msgstr "Texto"
+
+#: inc/customizer.php:92 inc/customizer.php:208 inc/customizer.php:242
+#: inc/customizer.php:276 inc/customizer.php:319
+msgid "Type your text"
+msgstr "Digite seu texto"
+
+#: inc/customizer.php:107
+msgid "Upload Logo"
+msgstr "Carregar Logo"
+
+#: inc/customizer.php:113 inc/customizer.php:420 inc/customizer.php:474
+#: inc/customizer.php:528 inc/customizer.php:559 inc/customizer.php:580
+msgid "Select Logo"
+msgstr "Selecionar Logo"
+
+#: inc/customizer.php:114 inc/customizer.php:421 inc/customizer.php:475
+#: inc/customizer.php:529 inc/customizer.php:560 inc/customizer.php:581
+msgid "Remove Logo"
+msgstr "Remover Logo"
+
+#: inc/customizer.php:115 inc/customizer.php:422 inc/customizer.php:476
+#: inc/customizer.php:530 inc/customizer.php:561 inc/customizer.php:582
+msgid "Change Logo"
+msgstr "Mudar Logo"
+
+#: inc/customizer.php:130 inc/customizer.php:147 inc/customizer.php:164
+#: inc/customizer.php:181 inc/customizer.php:333 inc/customizer.php:623
+msgid "Link"
+msgstr "Link"
+
+#: inc/customizer.php:131
+msgid "Type your Facebook link"
+msgstr "Digite seu link do Facebook"
+
+#: inc/customizer.php:148
+msgid "Type your Instagram link"
+msgstr "Digite seu link do Instagram"
+
+#: inc/customizer.php:165
+msgid "Type your Twitter link"
+msgstr "Digite seu link do Twitter"
+
+#: inc/customizer.php:182
+msgid "Type your Linkedin link"
+msgstr "Digite seu link do Linkedin"
+
+#: inc/customizer.php:193
+msgid "Section Utilities"
+msgstr "Seção Utilidades"
+
+#: inc/customizer.php:194
+msgid "Utilities Section"
+msgstr "Seção Utilidades"
+
+#: inc/customizer.php:207 inc/customizer.php:241 inc/customizer.php:275
+msgid "Events"
+msgstr "Eventos"
+
+#: inc/customizer.php:222 inc/customizer.php:256 inc/customizer.php:290
+msgid "Link for Events"
+msgstr "Link para Eventos"
+
+#: inc/customizer.php:223 inc/customizer.php:257 inc/customizer.php:291
+#: inc/customizer.php:334 inc/customizer.php:398 inc/customizer.php:452
+#: inc/customizer.php:506 inc/customizer.php:596 inc/customizer.php:624
+msgid "Type your link"
+msgstr "Digite seu link"
+
+#: inc/customizer.php:227 inc/customizer.php:261 inc/customizer.php:295
+#: inc/customizer.php:338 inc/customizer.php:402 inc/customizer.php:456
+#: inc/customizer.php:510 inc/customizer.php:600 inc/customizer.php:628
+msgid "http://www.url.com"
+msgstr ""
+
+#: inc/customizer.php:305
+msgid "Section: About"
+msgstr "Seção: Sobre"
+
+#: inc/customizer.php:306
+msgid "About Section"
+msgstr "Seção Sobre"
+
+#: inc/customizer.php:351
+msgid "Upload Image"
+msgstr "Carregar Imagem"
+
+#: inc/customizer.php:356
+msgid "Select Image"
+msgstr "Selecionar Imagem"
+
+#: inc/customizer.php:357
+msgid "Remove Image"
+msgstr "Remover Imagem"
+
+#: inc/customizer.php:358
+msgid "Change Image"
+msgstr "Mudar Imagem"
+
+#: inc/customizer.php:368
+msgid "Section: Comitês"
+msgstr "Seção: Comitês"
+
+#: inc/customizer.php:369
+msgid "Comitês Section"
+msgstr "Seção Comitês"
+
+#: inc/customizer.php:382
+msgid "Title 1"
+msgstr "Título 1"
+
+#: inc/customizer.php:397
+msgid "Link for Logo 1"
+msgstr "Link para o logotipo 1"
+
+#: inc/customizer.php:415 inc/customizer.php:554
+msgid "Upload Logo 1"
+msgstr "Carregar o logotipo 1"
+
+#: inc/customizer.php:436
+msgid "Title 2"
+msgstr "Título 2"
+
+#: inc/customizer.php:451
+msgid "Link for Logo 2"
+msgstr "Link para o logotipo 2"
+
+#: inc/customizer.php:469 inc/customizer.php:575
+msgid "Upload Logo 2"
+msgstr "Carregar o logotipo 2"
+
+#: inc/customizer.php:490
+msgid "Title 3"
+msgstr "Título 3"
+
+#: inc/customizer.php:505
+msgid "Link for Logo 3"
+msgstr "Link para o logotipo 3"
+
+#: inc/customizer.php:523
+msgid "Upload Logo 3"
+msgstr "Carregar o logotipo 3"
+
+#: inc/customizer.php:540
+msgid "Section: Partners"
+msgstr "Seção: Parceiros"
+
+#: inc/customizer.php:541
+msgid "Partners Section"
+msgstr "Seção Parceiros"
+
+#: inc/customizer.php:595
+msgid "Link for Page"
+msgstr "Link para página"
+
+#: inc/customizer.php:610 inc/customizer.php:611
+msgid "News Link"
+msgstr "Últimas novidades"
+
+#: index.php:16
+msgid "<< Newer posts"
+msgstr "<< Posts recentes"
+
+#: index.php:19
+msgid "Older posts >>"
+msgstr "Posts antigos >>"
+
+#: index.php:27
+msgid "There&rsquo;s nothing yet to be displayed..."
+msgstr "Não&rsquo;há nada ainda a ser exibido..."
+
+#: page-home.php:159
+msgid "No News"
+msgstr "Sem novidades"
+
+#: search.php:4
+msgid "Search results for:"
+msgstr "Procurar resultados por:"
+
+#: search.php:24
+msgid "Search navigation"
+msgstr "Procurar resultados por"
+
+#: searchform.php:3
+msgid "Search &hellip;"
+msgstr "Procurar &hellip;"
+
+#: template-parts/content-archive.php:4 template-parts/content-category.php:4
+#: template-parts/content-date.php:4 template-parts/content-search.php:3
+#: template-parts/content-single.php:6 template-parts/content-tag.php:4
+msgid "Published in "
+msgstr "Publicado em "
+
+#: template-parts/content-archive.php:4 template-parts/content-category.php:4
+#: template-parts/content-date.php:4 template-parts/content-search.php:3
+#: template-parts/content-single.php:6 template-parts/content-tag.php:4
+msgid "by"
+msgstr "por"
+
+#: template-parts/content-archive.php:5 template-parts/content-category.php:5
+#: template-parts/content-date.php:5 template-parts/content-search.php:5
+#: template-parts/content-single.php:7 template-parts/content-tag.php:5
+msgid "Categories: "
+msgstr "Categorias: "
